@@ -1,11 +1,12 @@
 body{
     background-color: aqua;
     margin: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
 .main{
     box-sizing: border-box;
     padding: 40px;
-    background-color: blueviolet;
+    background-color: brown;
 }
